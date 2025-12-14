@@ -1,0 +1,9 @@
+# Ignore virtual environment
+hand_detection_env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment variables
+.env
